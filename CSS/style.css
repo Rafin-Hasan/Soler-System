@@ -6,6 +6,7 @@ body {
     justify-content: center;
     overflow: hidden;
     background-image: url(../img/pexels-kaip-1341279.jpg);
+    background-size: cover;
 }
 
 .container {
