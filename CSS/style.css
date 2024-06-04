@@ -120,7 +120,6 @@ img{
     height: 85em; 
     animation: orbit 18s linear infinite;
 }
-
 .mercury::before,
 .venus::before,
 .earth::before,
@@ -160,7 +159,6 @@ img{
     background-image: url('../img/earth.png');
     background-size: cover;
 }
-
 .moon::before {
     top: 0.8em;
     right: 0.2em;
